@@ -10,14 +10,6 @@
 
 Agent 会根据自己的 Skill 安装方式完成安装。
 
-也可以手动将本仓库克隆到 Agent 的 Skills 目录。以 Codex 为例：
-
-```bash
-git clone https://github.com/panggungunvibe/atutun-resume-helper.git ~/.codex/skills/atutun-resume-helper
-```
-
-> 不同 Agent 的安装目录和调用方式可能不同；Agent 需要支持 Skills，并具备读取简历文件和生成 Word 文档的能力。
-
 ## 2. 这个 Skill 怎么用
 
 ### 第一步：上传自己的简历
