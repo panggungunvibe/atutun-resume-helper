@@ -1,0 +1,4 @@
+interface:
+  display_name: "阿囤囤的简历修改小助手"
+  short_description: "简洁诊断简历，并同步交付最终版Word简历"
+  default_prompt: "使用 $atutun-resume-helper 简洁说明简历结构、问题和修改方向，并在同一任务中生成最终版Word简历。"
