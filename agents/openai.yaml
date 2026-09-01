@@ -1,4 +1,4 @@
 interface:
-  display_name: "阿囤囤的简历修改小助手"
-  short_description: "简洁诊断简历，并同步交付最终版Word简历"
+  display_name: "改简历 Skill"
+  short_description: "面向中文求职者的简历诊断与改写工作流。1、用户：提供简历，格式不限（PDF、图片或文字均可）2、AI：（1）确认用户情况：校招／社招、是否有目标岗位、目标JD；（2）检查原简历是否通过修改的门槛；（3）给出诊断结果 + 一版重构后的简历（Word格式）。"
   default_prompt: "使用 $atutun-resume-helper 简洁说明简历结构、问题和修改方向，并在同一任务中生成最终版Word简历。"
